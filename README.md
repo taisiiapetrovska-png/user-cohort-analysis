@@ -6,7 +6,6 @@ This project analyzes user retention using cohort analysis techniques in SQL and
 
 The objective was to compare retention rates between users acquired through promotional campaigns and organically acquired users, identify retention patterns, and provide business recommendations based on the findings.
 
----
 
 ## Project Tasks
 
@@ -18,7 +17,6 @@ The objective was to compare retention rates between users acquired through prom
 * Compare retention performance between promotional and organic users
 * Develop business recommendations based on retention trends
 
----
 
 ## Tools Used
 
@@ -30,7 +28,6 @@ The objective was to compare retention rates between users acquired through prom
 * Conditional Formatting
 * Slicers
 
----
 
 ## Dataset
 
@@ -52,7 +49,6 @@ Contains user activity information:
 * event_datetime
 * event_type
 
----
 
 ## SQL Analysis
 
@@ -69,7 +65,6 @@ Main file:
 
 * `cohort_analysis.sql`
 
----
 
 ## Google Sheets Dashboard
 
@@ -88,7 +83,6 @@ The cohort analysis was visualized in Google Sheets using:
 
 ![Promotional Users](promo_retention.png)
 
----
 
 ## Key Findings
 
@@ -98,7 +92,6 @@ The cohort analysis was visualized in Google Sheets using:
 * Promotional users demonstrated substantially higher churn and lower long-term engagement.
 * Organic cohorts showed more stable behavior and slower retention decline, indicating higher acquisition quality.
 
----
 
 ## Recommendations
 
@@ -107,7 +100,6 @@ The cohort analysis was visualized in Google Sheets using:
 3. Introduce retention initiatives for promotional users, such as reminders, personalized offers, and re-engagement campaigns.
 4. Monitor retention performance separately for promotional and organic cohorts to optimize acquisition strategy.
 
----
 
 
 ## Author
